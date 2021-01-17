@@ -1,9 +1,9 @@
-### REACT BASIC
+# REACT BASIC
 
-# Props
+### Props
 
-# State
+### State
 
-# Components
+### Components
 
-# Axios
+### Axios
